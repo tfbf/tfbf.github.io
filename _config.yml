@@ -2,7 +2,7 @@
 title: The Free Bible Foundation
 #email: contact@tfbf.in
 description: > # this means to ignore newlines until "baseurl:"
-  The Free Bible Foundation aims to make bibles freely available focusing on India languages.
+  The Free Bible Foundation aims to make bibles freely available focusing on Indian languages.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tfbf.in" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
